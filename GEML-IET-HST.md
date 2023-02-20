@@ -13,7 +13,13 @@ Differences between my route and DTG route
 No other differences between the routes, the scenarios are where the content is required.
 
 ## Installation
-Please visit [this link](https://github.com/captainorigami01/GEML-IET-HST/releases/tag/v1.0)
+Please visit [this link](https://github.com/captainorigami01/GEML-IET-HST/releases/tag/v1.0) for the latest version (v1.0)
 Then you want to follow the instructions in the provided readme file provided which is available in the zip folder and in the fine print below
 
-*By installing this route you agree to the license provided in the [READMe.pdf](https://github.com/captainorigami01/GEML-IET-HST/blob/main/Readme.pdf)*
+### Older versions
+
+|Version name|Supported|
+|-|-|
+|[V1.0](https://github.com/captainorigami01/GEML-IET-HST/releases/tag/v1.0)|:white_check_mark:|
+
+*By installing this route you agree to the license provided in the [README.pdf](https://github.com/captainorigami01/GEML-IET-HST/blob/main/Readme.pdf)*
