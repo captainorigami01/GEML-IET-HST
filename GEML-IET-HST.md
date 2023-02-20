@@ -20,6 +20,6 @@ Then you want to follow the instructions in the provided readme file provided wh
 
 |Version name|Supported|
 |-|-|
-|[V1.0](https://github.com/captainorigami01/GEML-IET-HST/releases/tag/v1.0)|:white_check_mark:|
+|[V1.0](https://github.com/captainorigami01/GEML-IET-HST/releases/tag/v1.0)|✅|
 
 *By installing this route you agree to the license provided in the [README.pdf](https://github.com/captainorigami01/GEML-IET-HST/blob/main/Readme.pdf)*
