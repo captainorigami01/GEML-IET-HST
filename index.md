@@ -4,6 +4,6 @@
 
 |Routes|Link|Supported version(s)|
 |-|-|-|
-|GEML With IETs and HSTs|[Latest release](https://trainsim.captain-vc.com/GEML-IET-HST)|V1.0|
+|GEML With IETs and HSTs|[Releases and Information](https://trainsim.captain-vc.com/GEML-IET-HST)|V1.0|
 
 Currently this is the only route currently available
