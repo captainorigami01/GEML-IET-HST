@@ -1,3 +1,3 @@
 # GEML-IET-HST
 
-please read [https://roblox.com](test)
+please read [test](https://roblox.com)
